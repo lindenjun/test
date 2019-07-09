@@ -1,4 +1,0 @@
-program test
-implicit none 
-write(*,*)"test oererne"
-end program test
